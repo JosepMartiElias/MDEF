@@ -16,12 +16,12 @@ nav:
   - Reflections :
       - reflections/index.md
       - Term 1:
-          - Bootcamp: term1/01-Bootcamp.md
-          - AoWS: term1/02-Atlas of Weak Signals.md
+          - Bootcamp: reflections/term1/01-Bootcamp.md
+          - AoWS: reflections/term1/02-Atlas of Weak Signals.md
 
       - Term 2:
-          - digi: term1/01-Bootcamp.md
-          - studio: term1/01-Bootcamp.md
+          - digi: reflections/term1/01-Bootcamp.md
+          - studio: reflections/term1/01-Bootcamp.md
 
 
 
