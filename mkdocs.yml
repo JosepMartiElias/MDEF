@@ -15,13 +15,7 @@ nav:
       - Initial ideas: project/project.md
   - Reflections :
       - reflections/index.md
-      - Term 1:
-          - Bootcamp: reflections/term1/01-Bootcamp.md
-          - AoWS: reflections/term1/02-Atlas of Weak Signals.md
-
-      - Term 2:
-          - digi: reflections/term1/01-Bootcamp.md
-          - studio: reflections/term1/01-Bootcamp.md
+      - Test: reflections/test.md
 
 
 
