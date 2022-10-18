@@ -48,10 +48,10 @@ theme:
     logo: material/memory
   favicon: images/favicon.svg
   features:
-    #- instant
-    #- navigation.expand
+    - instant
+    - navigation.expand
     - navigation.indexes
-    #- navigation.instant
+    - navigation.instant
     # - navigation.prune
     # - navigation.sections
     #- navigation.tabs
@@ -61,8 +61,8 @@ theme:
 
 plugins:
   - search
-  - git-revision-date-localized:
-      fallback_to_build_date: true
+  #- git-revision-date-localized:
+#      fallback_to_build_date: true
 
 markdown_extensions:
   - extra
